@@ -1,0 +1,419 @@
+2021-12-04 15:46:09 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 15:46:19 INFO  Connect2SQL:81 - minnie@hopo.com is logged in.
+2021-12-04 15:46:19 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-04 15:46:49 WARN  Connect2SQL:114 - Account 981 is PENDING. No transactions can be performed
+2021-12-04 15:46:50 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-04 15:47:02 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 15:47:13 INFO  Connect2SQL:122 - donna@hopo.com is logged in.
+2021-12-04 18:12:11 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 18:13:43 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 18:13:49 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 18:17:32 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 18:17:38 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 18:59:37 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 18:59:41 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-04 19:30:24 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 19:30:36 INFO  Connect2SQL:142 - donna@hopo.com is logged in.
+2021-12-04 19:31:39 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-04 20:01:23 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 20:01:50 INFO  Connect2SQL:176 - donna@hopo.com is logged in.
+2021-12-04 21:30:00 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 21:30:14 INFO  Connect2SQL:179 - mara@hopo.com is logged in.
+2021-12-04 21:32:59 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 21:33:09 INFO  Connect2SQL:179 - mara@hopo.com is logged in.
+2021-12-04 21:41:08 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 21:41:19 INFO  Connect2SQL:179 - mara@hopo.com is logged in.
+2021-12-04 21:47:43 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 21:47:52 INFO  Connect2SQL:180 - mara@hopo.com is logged in.
+2021-12-04 21:49:28 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 21:49:43 INFO  Connect2SQL:180 - mara@hopo.com is logged in.
+2021-12-04 21:52:51 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 21:53:11 INFO  Connect2SQL:180 - mara@hopo.com is logged in.
+2021-12-04 21:55:11 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 21:55:27 INFO  Connect2SQL:180 - mara@hopo.com is logged in.
+2021-12-04 21:56:36 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 21:56:45 INFO  Connect2SQL:180 - mara@hopo.com is logged in.
+2021-12-04 21:58:08 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 21:58:19 INFO  Connect2SQL:180 - mara@hopo.com is logged in.
+2021-12-04 21:58:23 INFO  Connect2SQL:313 - Account 981 status was changed to OPEN
+2021-12-04 21:58:28 INFO  Connect2SQL:313 - Account 1000 status was changed to OPEN
+2021-12-04 21:58:35 INFO  Connect2SQL:313 - Account 1002 status was changed to CLOSED
+2021-12-04 21:59:16 INFO  Connect2SQL:313 - Account 1001 status was changed to CLOSED
+2021-12-04 21:59:21 INFO  Connect2SQL:313 - Account 985 status was changed to OPEN
+2021-12-04 22:06:16 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 22:06:24 INFO  Connect2SQL:180 - mara@hopo.com is logged in.
+2021-12-04 22:06:29 INFO  Connect2SQL:313 - Account 981 status was changed to OPEN
+2021-12-04 22:06:32 INFO  Connect2SQL:313 - Account 1000 status was changed to OPEN
+2021-12-04 22:06:34 INFO  Connect2SQL:313 - Account 1002 status was changed to CLOSED
+2021-12-04 22:06:36 INFO  Connect2SQL:313 - Account 1001 status was changed to CLOSED
+2021-12-04 22:06:37 INFO  Connect2SQL:313 - Account 985 status was changed to OPEN
+2021-12-04 22:06:41 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-04 22:19:49 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 22:19:55 INFO  Connect2SQL:203 - An account was made for alsj alsdkj
+2021-12-04 22:19:55 INFO  Connect2SQL:204 - alsk is logged in.
+2021-12-04 22:19:56 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-04 22:20:00 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 22:20:17 INFO  Connect2SQL:170 - mara@hopo.com is logged in.
+2021-12-04 22:35:23 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 22:35:33 INFO  Connect2SQL:173 - mara@hopo.com is logged in.
+2021-12-04 22:41:03 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 22:41:16 INFO  Connect2SQL:176 - mara@hopo.com is logged in.
+2021-12-04 22:42:02 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 22:42:07 INFO  Connect2SQL:209 - An account was made for aljd alsdkj
+2021-12-04 22:42:07 INFO  Connect2SQL:210 - aldj is logged in.
+2021-12-04 22:42:07 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-04 22:42:32 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-04 22:42:42 INFO  Connect2SQL:47 - connection to database is successful
+2021-12-04 22:42:42 INFO  Connect2SQL:61 - an account was made: 
+Account: 1003	aldj				$2938.0	savings		PENDING
+2021-12-04 22:42:42 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-04 22:43:03 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 22:43:13 INFO  Connect2SQL:176 - mara@hopo.com is logged in.
+2021-12-04 22:43:21 INFO  Connect2SQL:304 - Account 1003 status was changed to OPEN
+2021-12-04 23:40:35 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-04 23:40:47 INFO  Connect2SQL:298 - donna@hopo.com is logged in.
+2021-12-04 23:41:03 INFO  Connect2SQL:437 - Account 1002 status was changed to CLOSED
+2021-12-04 23:41:03 INFO  Connect2SQL:443 - the remaining balance was returned to the owner(s)
+2021-12-05 10:27:39 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 10:27:48 WARN  Connect2SQL:233 - alkj is not an email registered with us.
+2021-12-05 10:28:08 INFO  Connect2SQL:331 - An account was made for Leaf Tree
+2021-12-05 10:28:08 INFO  Connect2SQL:332 - leaf@hopo.com is logged in.
+2021-12-05 10:28:08 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 10:28:52 INFO  Connect2SQL:47 - connection to database is successful
+2021-12-05 10:28:52 INFO  Connect2SQL:61 - an account was made: 
+Account: 1004	leaf@hopo.com				$76.0	savings		PENDING
+2021-12-05 10:28:52 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 10:29:41 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 10:30:06 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 10:30:27 INFO  Connect2SQL:220 - minnie@hopo.com is logged in.
+2021-12-05 10:30:28 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 10:31:07 INFO  Connect2SQL:47 - connection to database is successful
+2021-12-05 10:31:07 INFO  Connect2SQL:61 - an account was made: 
+Account: 1005	minnie@hopo.com, mickey@hopo.com	$900.0	Joint savings		PENDING
+2021-12-05 10:31:07 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 10:31:14 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 10:31:25 INFO  Connect2SQL:263 - mara@hopo.com is logged in.
+2021-12-05 10:32:13 INFO  Connect2SQL:426 - Account 1005 status was changed to OPEN
+2021-12-05 10:32:28 INFO  Connect2SQL:426 - Account 1004 status was changed to OPEN
+2021-12-05 10:33:37 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 10:33:45 INFO  Connect2SQL:298 - donna@hopo.com is logged in.
+2021-12-05 10:34:29 INFO  Connect2SQL:437 - Account 1004 status was changed to CLOSED
+2021-12-05 10:34:29 INFO  Connect2SQL:443 - the remaining balance was returned to the owner(s)
+2021-12-05 12:08:22 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 12:08:33 INFO  Connect2SQL:263 - mara@hopo.com is logged in.
+2021-12-05 12:14:47 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 12:15:04 INFO  Connect2SQL:299 - donna@hopo.com is logged in.
+2021-12-05 12:20:07 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 12:20:23 INFO  Connect2SQL:299 - donna@hopo.com is logged in.
+2021-12-05 12:38:12 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 12:38:30 INFO  Connect2SQL:301 - donna@hopo.com is logged in.
+2021-12-05 12:38:57 INFO  Connect2SQL:334 - An account was made for Catherine Morris
+2021-12-05 12:38:57 INFO  Connect2SQL:335 - cat@hopo.com is logged in.
+2021-12-05 12:43:37 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 12:43:49 INFO  Connect2SQL:307 - donna@hopo.com is logged in.
+2021-12-05 12:43:49 INFO  Connect2SQL:75 - Donna is logged in.
+2021-12-05 12:44:10 INFO  Connect2SQL:340 - An account was made for Catherine Wells
+2021-12-05 15:37:05 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 15:37:19 INFO  Connect2SQL:229 - minnie@hopo.com is logged in.
+2021-12-05 15:37:20 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 15:37:34 INFO  Connect2SQL:123 - $34.6 was added to account 981 for a new balance of $234.6
+2021-12-05 15:37:34 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 15:37:57 WARN  Connect2SQL:133 - Account 1002 is CLOSED. No transactions can be performed
+2021-12-05 15:37:57 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:00:12 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:00:31 INFO  Connect2SQL:229 - minnie@hopo.com is logged in.
+2021-12-05 17:00:32 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:00:57 INFO  Connect2SQL:123 - $1009.0 was added to account 1005 for a new balance of $1909.0
+2021-12-05 17:00:57 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:01:14 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:01:49 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:02:32 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:02:43 INFO  Connect2SQL:229 - minnie@hopo.com is logged in.
+2021-12-05 17:02:43 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:02:54 INFO  Connect2SQL:164 - $35.0 was withdrawn from account 981 for a new balance of $199.6
+2021-12-05 17:02:55 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:03:09 INFO  Connect2SQL:220 - $50.0 was withdrawn from account 981 for a new balance of $149.6
+2021-12-05 17:03:09 INFO  Connect2SQL:225 - $50.0 was added to account 1005 for a new balance of $1055.0
+2021-12-05 17:03:09 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:03:43 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:04:15 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:04:43 INFO  Connect2SQL:229 - donald@hopo.com is logged in.
+2021-12-05 17:04:43 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:05:23 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:05:37 INFO  Connect2SQL:123 - $9882.0 was added to account 999 for a new balance of $10882.0
+2021-12-05 17:05:37 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:06:43 INFO  Connect2SQL:47 - connection to database is successful
+2021-12-05 17:06:43 INFO  Connect2SQL:61 - an account was made: 
+Account: 1006	donald@hopo.com				$55.0	checking		PENDING
+2021-12-05 17:06:43 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:07:24 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:30:44 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:31:07 INFO  Connect2SQL:272 - mara@hopo.com is logged in.
+2021-12-05 17:31:07 INFO  Connect2SQL:61 - Mara is logged in.
+2021-12-05 17:31:17 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:31:28 INFO  Connect2SQL:307 - donna@hopo.com is logged in.
+2021-12-05 17:31:28 INFO  Connect2SQL:75 - Donna is logged in.
+2021-12-05 17:35:04 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:35:14 INFO  Connect2SQL:307 - donna@hopo.com is logged in.
+2021-12-05 17:35:14 INFO  Connect2SQL:75 - Donna is logged in.
+2021-12-05 17:36:25 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:36:37 INFO  Connect2SQL:229 - Minnie Mouse is logged in.
+2021-12-05 17:36:38 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:37:23 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:37:31 INFO  Connect2SQL:272 - Mara Manager is logged in.
+2021-12-05 17:37:44 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:37:56 INFO  Connect2SQL:307 - Donna DeBoss is logged in.
+2021-12-05 17:38:09 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:38:20 WARN  Connect2SQL:318 - You are not an admin at the Bank of Hocus Pocus. Please use the proper login
+2021-12-05 17:38:20 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:40:48 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:40:57 WARN  Connect2SQL:284 - You are not an employee at the Bank of Hocus Pocus. Please use the customer login
+2021-12-05 17:41:04 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:41:13 WARN  Connect2SQL:319 - You are not an admin at the Bank of Hocus Pocus. Please use the proper login
+2021-12-05 17:41:13 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:41:42 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:41:54 WARN  Connect2SQL:320 - You are not an admin at the Bank of Hocus Pocus. Please use the proper login
+2021-12-05 17:41:59 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 17:42:07 INFO  Connect2SQL:231 - Minnie Mouse is logged in.
+2021-12-05 17:42:07 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:42:32 WARN  Connect2SQL:177 - Account 1002 is CLOSED. No transactions can be performed
+2021-12-05 17:42:33 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 17:42:53 INFO  Connect2SQL:164 - $50.0 was withdrawn from account 1005 for a new balance of $1909.0
+2021-12-05 17:42:53 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-05 18:27:21 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 18:28:42 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 18:28:56 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 20:45:48 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 20:46:00 INFO  Connect2SQL:309 - Donna DeBoss is logged in.
+2021-12-05 20:59:00 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 20:59:16 INFO  Connect2SQL:309 - Donna DeBoss is logged in.
+2021-12-05 21:00:08 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 21:00:20 INFO  Connect2SQL:309 - Donna DeBoss is logged in.
+2021-12-05 21:01:55 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 21:02:03 INFO  Connect2SQL:274 - Donna DeBoss is logged in.
+2021-12-05 21:18:28 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 21:18:41 INFO  Connect2SQL:311 - Donna DeBoss is logged in.
+2021-12-05 21:21:15 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 21:21:25 INFO  Connect2SQL:311 - Donna DeBoss is logged in.
+2021-12-05 21:23:05 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 21:23:12 INFO  Connect2SQL:311 - Donna DeBoss is logged in.
+2021-12-05 21:23:38 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 21:23:45 INFO  Connect2SQL:311 - Donna DeBoss is logged in.
+2021-12-05 21:25:36 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 21:25:45 INFO  Connect2SQL:311 - Donna DeBoss is logged in.
+2021-12-05 21:27:06 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 21:27:14 INFO  Connect2SQL:311 - Donna DeBoss is logged in.
+2021-12-05 21:41:14 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 21:41:24 INFO  Connect2SQL:311 - Donna DeBoss is logged in.
+2021-12-05 21:48:11 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 21:48:20 INFO  Connect2SQL:306 - Donna DeBoss is logged in.
+2021-12-05 21:48:25 INFO  Connect2SQL:106 - connection to accounts database is successful
+2021-12-05 21:48:30 INFO  Connect2SQL:144 - $9.0 was added to account 981 for a new balance of $158.6
+2021-12-05 21:51:56 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 21:52:06 INFO  Connect2SQL:308 - Donna DeBoss is logged in.
+2021-12-05 21:53:42 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 21:53:51 INFO  Connect2SQL:308 - Donna DeBoss is logged in.
+2021-12-05 21:54:00 INFO  Connect2SQL:122 - connection to accounts database is successful
+2021-12-05 21:54:08 INFO  Connect2SQL:227 - $5.0 was withdrawn from account 980 for a new balance of $1195.0
+2021-12-05 21:54:32 INFO  Connect2SQL:140 - connection to accounts database is successful
+2021-12-05 21:54:43 INFO  Connect2SQL:283 - $5.0 was withdrawn from account 999 for a new balance of $10877.0
+2021-12-05 21:54:43 INFO  Connect2SQL:288 - $5.0 was added to account 980 for a new balance of $985.0
+2021-12-05 21:56:37 INFO  Connect2SQL:106 - connection to accounts database is successful
+2021-12-05 21:58:03 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 21:58:15 INFO  Connect2SQL:308 - Donna DeBoss is logged in.
+2021-12-05 21:58:32 INFO  Connect2SQL:106 - connection to accounts database is successful
+2021-12-05 21:58:55 INFO  Connect2SQL:179 - $328.1 was added to account 981 for a new balance of $486.70000000000005
+2021-12-05 21:59:52 INFO  Connect2SQL:341 - An account was made for Wonder Woman
+2021-12-05 21:59:58 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-05 22:00:09 INFO  Connect2SQL:273 - Wonder Woman is logged in.
+2021-12-05 22:00:28 INFO  Connect2SQL:436 - Account 1006 status was changed to OPEN
+2021-12-06 10:56:41 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-06 10:56:52 INFO  Connect2SQL:230 - Minnie Mouse is logged in.
+2021-12-06 10:56:52 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 11:01:11 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-06 11:01:20 INFO  Connect2SQL:230 - Minnie Mouse is logged in.
+2021-12-06 11:01:20 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 11:01:31 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-06 11:01:44 INFO  Connect2SQL:230 - Minnie Mouse is logged in.
+2021-12-06 11:01:44 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 11:01:51 INFO  Connect2SQL:200 - $5.0 was added to account 981 for a new balance of $491.7
+2021-12-06 11:01:51 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 11:13:17 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-06 11:13:27 INFO  Connect2SQL:230 - Minnie Mouse is logged in.
+2021-12-06 11:13:27 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 11:13:34 WARN  Connect2SQL:133 - Cannot access this account due to permission
+2021-12-06 11:13:34 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 11:14:48 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-06 11:14:57 INFO  Connect2SQL:230 - Minnie Mouse is logged in.
+2021-12-06 11:14:58 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 11:15:05 INFO  Connect2SQL:216 - $8.0 was added to account 981 for a new balance of $499.7
+2021-12-06 11:15:05 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 11:17:50 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-06 11:17:59 INFO  Connect2SQL:230 - Minnie Mouse is logged in.
+2021-12-06 11:17:59 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 11:18:08 INFO  Connect2SQL:216 - $3.0 was added to account 1005 for a new balance of $1912.0
+2021-12-06 11:18:08 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 11:18:15 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 12:03:34 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-06 12:03:43 INFO  Connect2SQL:230 - Minnie Mouse is logged in.
+2021-12-06 12:03:43 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 12:04:11 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 12:04:26 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 12:04:36 INFO  Connect2SQL:329 - $2.0 was withdrawn from account 981 for a new balance of $497.7
+2021-12-06 12:04:36 INFO  Connect2SQL:334 - $2.0 was added to account 980 for a new balance of $1202.0
+2021-12-06 12:04:36 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 15:29:28 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-06 16:19:51 INFO  MainDriver:41 - connection to logins database is successful
+2021-12-06 16:19:58 INFO  Connect2SQL:345 - An account was made for asljkd asdlfj
+2021-12-06 16:19:59 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 17:16:01 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-06 17:18:42 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-06 17:18:54 INFO  Connect2SQL:276 - Mara Manager is logged in.
+2021-12-06 17:25:39 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-06 17:25:49 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-06 17:26:00 INFO  Connect2SQL:233 - Minnie Mouse is logged in.
+2021-12-06 17:26:00 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 17:26:30 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-06 17:26:39 INFO  Connect2SQL:276 - Mara Manager is logged in.
+2021-12-06 17:27:02 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-06 17:27:09 INFO  Connect2SQL:311 - Donna DeBoss is logged in.
+2021-12-06 17:27:19 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-06 17:27:31 INFO  Connect2SQL:311 - Donna DeBoss is logged in.
+2021-12-06 17:32:50 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-06 17:33:05 INFO  Connect2SQL:221 - Minnie Mouse is logged in.
+2021-12-06 17:33:06 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-06 17:33:18 INFO  Connect2SQL:228 - $8.0 was added to account 1005 for a new balance of $1920.0
+2021-12-06 17:33:19 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-07 11:07:08 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-07 11:07:19 WARN  Connect2SQL:275 - You are not an employee at the Bank of Hocus Pocus. Please use the customer login
+2021-12-07 11:07:28 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-07 11:07:36 INFO  Connect2SQL:221 - Minnie Mouse is logged in.
+2021-12-07 11:07:36 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-07 11:08:02 INFO  Connect2SQL:228 - $550.0 was added to account 981 for a new balance of $2047.7
+2021-12-07 11:08:02 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-07 11:08:18 INFO  Connect2SQL:273 - $50.0 was withdrawn from account 981 for a new balance of $1997.7
+2021-12-07 11:08:18 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-07 11:08:44 INFO  Connect2SQL:329 - $350.0 was withdrawn from account 981 for a new balance of $1647.7
+2021-12-07 11:08:44 INFO  Connect2SQL:334 - $350.0 was added to account 1005 for a new balance of $2270.0
+2021-12-07 11:08:45 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-07 11:09:05 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-07 11:09:16 INFO  Connect2SQL:299 - Donna DeBoss is logged in.
+2021-12-07 11:09:32 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-07 11:09:39 INFO  Connect2SQL:335 - An account was made for aslj lfj
+2021-12-07 11:09:40 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-07 11:09:54 INFO  Connect2SQL:47 - connection to database is successful
+2021-12-07 11:09:54 INFO  Connect2SQL:61 - an account was made: 
+Account: 1007	dkj				$50.0	savings		PENDING
+2021-12-07 11:09:54 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-07 11:10:19 INFO  Connect2SQL:47 - connection to database is successful
+2021-12-07 11:10:19 INFO  Connect2SQL:61 - an account was made: 
+Account: 1008	dkj, donald@hopo.com	$7.0	Joint checking		PENDING
+2021-12-07 11:10:19 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-07 11:10:32 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-07 11:10:42 INFO  Connect2SQL:299 - Donna DeBoss is logged in.
+2021-12-07 11:11:15 INFO  Connect2SQL:335 - An account was made for lj lj
+2021-12-07 11:11:20 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-07 11:11:25 WARN  Connect2SQL:310 - You are not an admin at the Bank of Hocus Pocus. Please use the proper login
+2021-12-07 11:11:30 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-07 11:11:32 INFO  Connect2SQL:264 - lj lj is logged in.
+2021-12-07 11:11:44 INFO  Connect2SQL:428 - Account 1007 status was changed to OPEN
+2021-12-07 11:11:47 INFO  Connect2SQL:428 - Account 1008 status was changed to CLOSED
+2021-12-07 11:12:00 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-07 11:12:49 INFO  Connect2SQL:221 - Donald Duck is logged in.
+2021-12-07 11:12:49 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-07 11:19:24 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-07 11:19:48 WARN  Connect2SQL:234 - bluto@hhopo.com is not an email registered with us.
+2021-12-07 11:19:59 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-07 11:20:08 INFO  Connect2SQL:221 - Bluto Bully is logged in.
+2021-12-07 11:20:08 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-07 11:20:19 INFO  Connect2SQL:47 - connection to database is successful
+2021-12-07 11:20:19 INFO  Connect2SQL:61 - an account was made: 
+Account: 1009	bluto@hopo.com				$10.0	checking		PENDING
+2021-12-07 11:20:19 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-07 11:20:29 INFO  Connect2SQL:47 - connection to database is successful
+2021-12-07 11:20:29 INFO  Connect2SQL:61 - an account was made: 
+Account: 1010	bluto@hopo.com				$5.0	savings		PENDING
+2021-12-07 11:20:29 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-07 11:20:34 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-07 11:21:46 INFO  Connect2SQL:299 - Donna DeBoss is logged in.
+2021-12-07 11:21:53 INFO  Connect2SQL:428 - Account 1009 status was changed to OPEN
+2021-12-07 11:21:54 INFO  Connect2SQL:439 - Account 1010 status was changed to CLOSED
+2021-12-07 11:21:54 INFO  Connect2SQL:445 - the remaining balance was returned to the owner(s)
+2021-12-07 11:23:29 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-07 11:24:00 INFO  Connect2SQL:221 - Popeye Person is logged in.
+2021-12-07 11:24:00 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-07 11:24:23 INFO  Connect2SQL:47 - connection to database is successful
+2021-12-07 11:24:23 INFO  Connect2SQL:61 - an account was made: 
+Account: 1011	popeye@hopo.com, olive@hopo.com	$50.0	Joint checking		PENDING
+2021-12-07 11:24:24 INFO  Connect2SQL:46 - connection to accounts database is successful
+2021-12-07 11:24:30 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-07 11:24:52 INFO  Connect2SQL:264 - Mara Manager is logged in.
+2021-12-07 11:25:00 INFO  Connect2SQL:439 - Account 1011 status was changed to CLOSED
+2021-12-07 11:25:00 INFO  Connect2SQL:445 - the remaining balance was returned to the owner(s)
+2021-12-07 12:13:26 INFO  Connect2SQL:228 - $5.5 was added to account 981 for a new balance of $1653.2
+2021-12-07 12:14:37 INFO  Connect2SQL:228 - $5.5 was added to account 981 for a new balance of $1658.7
+2021-12-07 12:15:57 INFO  Connect2SQL:228 - $5.5 was added to account 981 for a new balance of $1664.2
+2021-12-07 12:17:48 INFO  Connect2SQL:228 - $5.5 was added to account 981 for a new balance of $1669.7
+2021-12-07 12:18:18 INFO  Connect2SQL:228 - $5.5 was added to account 981 for a new balance of $1675.2
+2021-12-07 12:18:50 INFO  Connect2SQL:228 - $5.5 was added to account 981 for a new balance of $1680.7
+2021-12-07 12:19:00 INFO  Connect2SQL:228 - $5.5 was added to account 981 for a new balance of $1686.2
+2021-12-07 12:19:08 INFO  Connect2SQL:228 - $5.5 was added to account 981 for a new balance of $1691.7
+2021-12-07 12:20:36 INFO  Connect2SQL:228 - $5.5 was added to account 981 for a new balance of $1697.2
+2021-12-07 12:21:12 INFO  Connect2SQL:228 - $5.5 was added to account 981 for a new balance of $1702.7
+2021-12-07 12:22:35 INFO  Connect2SQL:228 - $5.5 was added to account 981 for a new balance of $1708.2
+2021-12-07 12:23:33 INFO  Connect2SQL:228 - $5.5 was added to account 981 for a new balance of $1713.7
+2021-12-07 12:23:33 INFO  Connect2SQL:273 - $5.5 was withdrawn from account 981 for a new balance of $1708.2
+2021-12-07 12:38:18 INFO  MainDriver:42 - connection to logins database is successful
+2021-12-07 12:38:36 INFO  Connect2SQL:221 - Minnie Mouse is logged in.
+2021-12-07 12:38:37 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-07 12:38:45 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-07 12:40:10 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-07 12:40:24 INFO  Connect2SQL:273 - $50.0 was withdrawn from account 981 for a new balance of $1658.2
+2021-12-07 12:40:25 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-07 12:43:12 INFO  MainDriver:42 - [32mconnection to logins database is successful[0m
+2021-12-08 09:55:39 INFO  MainDriver:38 - connection to logins database is successful
+2021-12-08 09:58:45 INFO  MainDriver:38 - connection to logins database is successful
+2021-12-08 09:58:59 INFO  Connect2SQL:335 - An account was made for sljk sakldj
+2021-12-08 09:58:59 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-08 09:59:08 INFO  Connect2SQL:47 - connection to database is successful
+2021-12-08 09:59:08 INFO  Connect2SQL:61 - an account was made: 
+Account: 1012	aslfkj				$9.0	checking		PENDING
+2021-12-08 09:59:09 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-08 10:04:41 INFO  MainDriver:38 - connection to logins database is successful
+2021-12-08 10:07:06 WARN  Connect2SQL:275 - You are not an employee at the Bank of Hocus Pocus. Please use the customer login
+2021-12-08 10:07:13 INFO  MainDriver:38 - connection to logins database is successful
+2021-12-08 10:07:22 INFO  Connect2SQL:221 - Minnie Mouse is logged in.
+2021-12-08 10:07:22 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-08 10:07:56 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-08 10:08:05 INFO  Connect2SQL:228 - $550.0 was added to account 981 for a new balance of $2208.2
+2021-12-08 10:08:05 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-08 10:08:20 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-08 10:08:30 INFO  Connect2SQL:273 - $50.0 was withdrawn from account 981 for a new balance of $2158.2
+2021-12-08 10:08:31 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-08 10:08:47 INFO  Connect2SQL:329 - [32m$350.0 was withdrawn from account 981 for a new balance of $1808.1999999999998[0m
+2021-12-08 10:08:47 INFO  Connect2SQL:334 - [32m$350.0 was added to account 1005 for a new balance of $2620.0[0m
+2021-12-08 10:08:47 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-08 10:09:04 INFO  Connect2SQL:47 - connection to database is successful
+2021-12-08 10:09:04 INFO  Connect2SQL:61 - an account was made: 
+Account: 1012	minnie@hopo.com				$50.0	savings		PENDING
+2021-12-08 10:09:04 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-08 10:09:16 INFO  MainDriver:38 - connection to logins database is successful
+2021-12-08 10:09:27 INFO  Connect2SQL:299 - Donna DeBoss is logged in.
+2021-12-08 10:10:03 INFO  Connect2SQL:335 - An account was made for Wonder Woman
+2021-12-08 10:10:12 INFO  MainDriver:38 - connection to logins database is successful
+2021-12-08 10:10:21 INFO  Connect2SQL:264 - Wonder Woman is logged in.
+2021-12-08 10:10:36 INFO  Connect2SQL:428 - Account 1012 status was changed to OPEN
+2021-12-08 10:10:47 INFO  MainDriver:38 - connection to logins database is successful
+2021-12-08 10:11:03 INFO  Connect2SQL:335 - An account was made for Daisy Duck
+2021-12-08 10:11:03 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-08 10:11:24 INFO  Connect2SQL:47 - connection to database is successful
+2021-12-08 10:11:24 INFO  Connect2SQL:61 - an account was made: 
+Account: 1013	daisy@hopo.com, donald@hopo.com	$50.0	Joint checking		PENDING
+2021-12-08 10:11:24 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-08 10:11:34 INFO  MainDriver:38 - connection to logins database is successful
+2021-12-08 10:11:45 WARN  Connect2SQL:230 - You have entered a wrong password
+2021-12-11 14:54:49 INFO  MainDriver:38 - connection to logins database is successful
+2021-12-12 17:04:08 INFO  MainDriver:38 - connection to logins database is successful
+2021-12-12 17:04:18 INFO  Connect2SQL:335 - An account was made for alkj aljf
+2021-12-12 17:04:18 INFO  Connect2SQL:48 - connection to accounts database is successful
+2021-12-12 17:12:15 INFO  MainDriver:38 - connection to logins database is successful
